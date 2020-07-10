@@ -1,4 +1,15 @@
-﻿Q1) What is cloud?
+<!DOCTYPE html>
+<html>
+<head>
+<title>assignment 01</title>
+</head>
+<body>
+
+</body>
+</html>
+
+
+Q1) What is cloud?
 Ans:- 
 Cloud technology enables the reusability of IT resources for storing large databases, developing and hosting complex applications, and expanding computational power and other services on demand. cloud is reffer as server we can access it through internet. We dont have use our own memory processor to run a software ,cloud provides us this services.
 Cloud unble user to access file , software almost from any device.
