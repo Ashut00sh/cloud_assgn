@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>assignment 01</title>
-</head>
-<body>
-
-</body>
-</html>
 
 
 Q1) What is cloud?
